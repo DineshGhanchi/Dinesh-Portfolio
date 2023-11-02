@@ -413,6 +413,15 @@ min-width: 350px;
   width: 40%;
   margin-bottom: 20px;
 }
+.review{
+  display: block;
+  margin: 10px;
+  padding: 3px;
+  color: white;
+  border-radius: 4px;
+  background-color:#4070f4;
+  border: none;
+}
 
 /* Contact Me CSS */
 .contact{
@@ -427,6 +436,13 @@ min-width: 350px;
   text-align: center;
   margin: auto;
 } 
+.button button a{
+  color:  white;
+}
+.gmail {
+  text-align: center;
+  margin-bottom: 20px;
+}
 /* Footer CSS */
 footer{
   background: #4070f4;
